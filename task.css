@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+}
+
+.card {
+  width: 625px;
+}
+
+.poll__title {
+  margin-bottom: 20px;
+}
+
+.poll__answer:hover {
+  background-color: blue;
+  color: white;
+  border-color: blue;
+}
